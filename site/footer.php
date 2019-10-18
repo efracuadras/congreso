@@ -3,7 +3,8 @@
 
 		<footer>
 			<div class="container">
-				
+				<span>Congreo Internacional Minero Sinaloa</span>
+				<span>Sitio desarrollado por Marketing Inteligente Ei</span>
 			</div>
 		</footer>
 

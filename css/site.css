@@ -50,6 +50,7 @@ header .menu-bar .menu ul li:hover .submenu {min-height: 60px; height: 60px; dis
 header .menu-bar .menu ul li .submenu li:hover {background-color: #967900}
 
 footer {height: 215px; background-color: #dab000;}
+footer .container{ height: 100%; font-size: 18px; color: #000; font-family: 'Myanmar'; display: flex; flex-direction: column; justify-content: center; align-items: center; }
 
 .home .section1 .slider {height: calc(100vh - 295px) !important;}
 .home .section1 .slider .indicators {display: none;}
